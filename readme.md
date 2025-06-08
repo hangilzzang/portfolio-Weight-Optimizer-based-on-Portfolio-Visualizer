@@ -5,9 +5,8 @@
 이 크롤링 코드는 [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-portfolio) 웹사이트에서
 사용자가 선택한 종목들의 모든 비율 조합을 계산하고, 각 조합에 대한 연간 수익률, 표준편차, 최대 낙폭 등의 핵심 지표를 자동으로 수집해
 CSV 파일로 깔끔하게 정리해줍니다. 
-
-![예시 이미지](https://imgur.com/a/1N7uGGu) 
-
+![예시 이미지](https://i.imgur.com/mFBFTdD.png) 
+ 
 <br>
 
 ## 🖥️ 실행 환경
