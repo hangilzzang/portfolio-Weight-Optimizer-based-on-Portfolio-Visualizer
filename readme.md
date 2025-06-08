@@ -2,9 +2,11 @@
 
 많은 투자자들이 포트폴리오를 구성할 때 **정확히 어떤 비율로 자산을 나눠야 할지** 고민합니다.  
 
-이 크롤링 코드는 Portfolio Visualizer 웹사이트에서
+이 크롤링 코드는 [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-portfolio) 웹사이트에서
 사용자가 선택한 종목들의 모든 비율 조합을 계산하고, 각 조합에 대한 연간 수익률, 표준편차, 최대 낙폭 등의 핵심 지표를 자동으로 수집해
-CSV 파일로 깔끔하게 정리해줍니다.
+CSV 파일로 깔끔하게 정리해줍니다. 
+
+![예시 이미지](https://imgur.com/a/1N7uGGu) 
 
 <br>
 
